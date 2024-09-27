@@ -1,0 +1,5 @@
+导入教程看不懂看b站就行了，别来问我。。。我一般忙着玩游戏和做mod
+对了，那个文件块的占用是233（大圣套），222（牛魔套），236（行者套）
+好的，就这样。
+导入的话你直接放~mods的，这个路径是游戏所在盘符:\Steam\steamapps\common\BlackMythWukong\b1\content\Paks\~mods
+~mods一般要自己建。

@@ -6,7 +6,7 @@
 ![感谢作者](\\作者的念念碎\\作者的声明原文\\你又解包不了，你能拿我怎么样？倒狗.png)
 
 ## mod展示
-![mod展示](../-mod-up-/tree/main/作者的念念碎/mod展示图/展示图1（鹅鹅鹅打蜡的既视感别介意）.png)
+![mod展示](https://github.com/lan257/-mod-up-/tree/main/作者的念念碎/mod展示图/展示图1（鹅鹅鹅打蜡的既视感别介意）.png)
 ![mod展示](..\\-mod-up-\\tree\\main\\作者的念念碎\\mod展示图\\展示图2.png)
 ![mod展示](..\\-mod-up-\\tree\\main\\作者的念念碎\\mod展示图\\展示图3.png)
 ![mod展示](\\作者的念念碎\\mod展示图\\展示图4.png)

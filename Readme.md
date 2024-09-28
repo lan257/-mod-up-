@@ -84,3 +84,8 @@ UP只是一个小白，摸索的路上真的很难搞，还好有大佬教我处
 https://www.bilibili.com/video/BV1A1sve4Eos/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=3d10367074f7175005abdab5f8a511a4
 还有采蘑菇的帖子，也去捧捧场
 https://www.caimogu.cc/post/1407092.html
+
+## 帮助我/help me
+由于我并非一直关注该mod的最新情况，所以文件很容易过时而我未能及时更新。 Because I don't always pay attention to the latest situation of this mod, the file is easily out of date and I can't update it in time.
+
+如果有帮助到你，我很高兴，如果你发现文件有需要完善的地方请发邮件联系我（zut177@hotmail.com），帮助我改进。 If it helps you, I am very happy. If you find that the document needs to be improved, please contact me by email (zut177@hotmail.com) to help me improve it.
